@@ -10,6 +10,7 @@
 
 <body>
     <h1>This is a contact page</h1>
+    <a href="{{ route('about.page') }}">About</a>
 </body>
 
 </html>
